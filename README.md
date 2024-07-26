@@ -2,9 +2,8 @@
 Eu sou o Emanuel, muito prazer 😀
 
 - 🔭 Hoje eu sou estudante, cursando o 3°ano ensino do médio
-- 💻 trabalho com HTML CSS e javaScript || front-end
+- 💻 Programo com HTML CSS e javaScript
 - 🌱 Eu estou estudando javaScript e Phiton
-- 🤔 Pronomes: ele/dele
 
 <picture>
   <source
