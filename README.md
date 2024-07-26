@@ -19,5 +19,5 @@ Eu sou o Emanuel, muito prazer 😀
 </picture>
 
 <a href="https://github.com/emanuelhmarcineksilva">
-  <img height=200 align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs?username=emanuelhmarcineksilva&layout=compact&langs_count=8&card_width=320"/>
+  <img height=180 align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs?username=emanuelhmarcineksilva&layout=compact&langs_count=8&card_width=320"/>
 </a>
