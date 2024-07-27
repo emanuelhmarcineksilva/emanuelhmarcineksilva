@@ -22,7 +22,7 @@ Eu sou o Emanuel, muito prazer 😀
 ##
 
 <a href="https://github.com/emanuelhmarcineksilva">
-  <img height=180 align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs?username=emanuelhmarcineksilva&theme=merko&layout=compact&langs_count=8"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emanuelhmarcineksilva&theme=merko&layout=compact&langs_count=8"/>
 </a>
 
 ##
