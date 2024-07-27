@@ -16,19 +16,13 @@ Eu sou o Emanuel, muito prazer 😀
 ###
 
 <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=emanuelhmarcineksilva&show_icons=true&theme=merko"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=emanuelhmarcineksilva&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=emanuelhmarcineksilva&show_icons=true&theme=merko"/>
 </picture>
 
+##
+
 <a href="https://github.com/emanuelhmarcineksilva">
-  <img height=180 align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs?username=emanuelhmarcineksilva&layout=compact&langs_count=8&card_width=320"/>
+  <img height=180 align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs?username=emanuelhmarcineksilva&theme=merko&layout=compact&langs_count=8"/>
 </a>
 
 ##
