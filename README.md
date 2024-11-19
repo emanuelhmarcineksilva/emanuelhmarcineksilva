@@ -3,7 +3,7 @@ Eu sou o Emanuel, muito prazer 😀
 
 - 🔭 Hoje eu sou estudante, cursando o 3°ano ensino do médio
 - 💻 Programo com HTML CSS e javaScript
-- 🌱 Planejo aprimorar meus conhecimentos em JavaScript e Phiton
+- 🌱 Planejo aprimorar meus conhecimentos em JavaScript e Phyton
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
