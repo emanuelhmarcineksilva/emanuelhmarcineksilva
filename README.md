@@ -1,7 +1,7 @@
 ## Olá 👋
 Eu sou o Emanuel, muito prazer 😀
 
-- 🔭 Hoje eu sou Progamador
+- 🔭 Hoje eu sou estudante de Engenharia de Software da PUC
 - 💻 Programo com HTML CSS e javaScript
 - 🌱 Venho aprimorando meus conhecimentos em Python
 
