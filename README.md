@@ -2,8 +2,8 @@
 Eu sou o Emanuel, muito prazer 😀
 
 - 🔭 Hoje eu sou estudante de Engenharia de Software da PUC
-- 💻 Programo com HTML CSS e javaScript
-- 🌱 Venho aprimorando meus conhecimentos em Python
+- 💻 Programo com HTML CSS javaScript e Python
+- 🌱 Venho aprimorando meus conhecimentos em SQL
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
