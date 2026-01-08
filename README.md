@@ -15,15 +15,11 @@ Eu sou o Emanuel, muito prazer 😀
 
 ###
 
-<picture>
-  <img src="https://github-readme-stats.vercel.app/api?username=emanuelhmarcineksilva&show_icons=true&theme=merko"/>
-</picture>
-
-###
-
-<a href="https://github.com/emanuelhmarcineksilva">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emanuelhmarcineksilva&theme=merko&layout=compact&langs_count=8"/>
-</a>
+<div align="center">
+  <br>
+  <br>
+  <img align="center" alt="Top Language" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emanuelhmarcineksilva&theme=dark"/>
+</div>
 
 ##
 
