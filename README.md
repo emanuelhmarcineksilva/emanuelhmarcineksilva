@@ -10,7 +10,7 @@ Eu sou o Emanuel, muito prazer 😀
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Python" height="250" width="250" src="programando.gif"> <!-- imagem tirada do "https://github.com/douglasacioli" -->
+  <!-- <img align="right" alt="Python" height="250" width="250" src="programando.gif"> <!-- imagem tirada do "https://github.com/douglasacioli" -->
 </div>
 
 ###
@@ -19,6 +19,15 @@ Eu sou o Emanuel, muito prazer 😀
   <br>
   <br>
   <img align="center" alt="Top Language" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emanuelhmarcineksilva&theme=dark"/>
+  <br>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=emanuelhmarcineksilva&theme=github_dark"
+    alt="GitHub Stats"
+    height="170"/>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emanuelhmarcineksilva&theme=github_dark"
+    alt="Repos per Language"
+    height="170"/>
 </div>
 
 ##
