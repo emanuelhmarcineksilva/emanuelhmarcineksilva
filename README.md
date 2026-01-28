@@ -24,7 +24,7 @@ Eu sou o Emanuel, muito prazer 😀
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emanuelhmarcineksilva&theme=github_dark"
     alt="Repos per Language"
     height="170"/>
-  <img align="center" alt="Top Language" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emanuelhmarcineksilva&theme=dark"/>
+  <img align="center" alt="Top Language" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emanuelhmarcineksilva&theme=github_dark"/>
 </div>
 
 ##
