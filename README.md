@@ -1,11 +1,13 @@
 ## Olá 👋
 Eu sou o Emanuel, muito prazer 😀
 
-- 🔭 Hoje eu sou estudante de Engenharia de Software da PUC
-- 💻 Programo com HTML CSS javaScript PHP e Python 
-- 🌱 Venho aprimorando meus conhecimentos em SQL, C# e PHP
+- Hoje eu sou estudante de Engenharia de Software da PUC
+  
+- Programo com HTML CSS javaScript PHP Python SQL react 
+  
+- Venho aprimorando meus conhecimentos em Java
 
-<div style="display: inline_block"><br>
+<!--<div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
