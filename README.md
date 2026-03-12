@@ -3,9 +3,9 @@ Eu sou o Emanuel, muito prazer 😀
 
 - Hoje eu sou estudante de Engenharia de Software da PUC
   
-- Programo com HTML CSS javaScript PHP Python SQL react 
+- Programo com HTML CSS javaScript PHP Python e SQL
   
-- Venho aprimorando meus conhecimentos em Java
+- Venho aprimorando meus conhecimentos em Java react e laravel
 
 <!--<div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
